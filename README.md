@@ -25,9 +25,9 @@ at a time.
 # Files-used
 One simple python file, labeled A5. As of 2.20.25, it's the only file in this repo.
 
-#Additional-documentation 
+# Additional-documentation 
 NA
 
-#Versioning 
+# Versioning 
 NA
 
