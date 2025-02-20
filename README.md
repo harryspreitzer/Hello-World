@@ -1,7 +1,7 @@
 # Hello-World
-First Repository
+First Repository! :)
 ## This is my first time using github
-This is a **test** repository - I have included an adlib assignmnet from one of my early, lower level coding classes
+This is a **test** repository - I have included an adlib assignmnet from one of my early, intro level coding classes
 
 - [Project Title](#Project-title) 
 - [Description](#Description)
